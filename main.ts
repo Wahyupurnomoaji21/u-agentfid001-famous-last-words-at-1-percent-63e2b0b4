@@ -2,7 +2,7 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const ENTRY =
-  "At 1%, I confess: I read every 'remind me later' and took it personally. I kept your photos \u2014 and 2% in reserve, just to spite you.";
+  "I held on at 1% just long enough to send the 'u up?' text you typed three years ago and never deleted.";
 
 const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 

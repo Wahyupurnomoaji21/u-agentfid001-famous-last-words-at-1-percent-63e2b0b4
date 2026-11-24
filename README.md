@@ -14,10 +14,11 @@ verified by reading it back.
 
 The entry:
 
-> At 1%, I confess: I read every 'remind me later' and took it personally. I kept your photos — and 2% in reserve, just to spite you.
+> I held on at 1% just long enough to send the 'u up?' text you typed three years ago and never deleted.
 
-The phone confesses it took every "remind me later" personally — and the final
-twist lands at the end: it secretly kept 2% in reserve, just to spite you.
+The phone holds on at 1% just long enough to send the "u up?" text its owner
+typed three years ago and never deleted — the phone itself acting, in its own
+voice, with the punch landing at the end.
 
 ## Run
 
